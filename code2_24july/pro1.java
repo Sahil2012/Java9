@@ -5,6 +5,7 @@ class Check {
 
 		return (x % 2);
 	}
+
 	public static void main(String[] args) {
 
 		Check eo = new Check();
